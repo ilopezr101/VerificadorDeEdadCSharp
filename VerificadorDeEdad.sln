@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificadorDeEdad", "VerificadorDeEdad\VerificadorDeEdad.csproj", "{89E72CC3-B57D-422A-A734-5547B75DED6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E72CC3-B57D-422A-A734-5547B75DED6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E72CC3-B57D-422A-A734-5547B75DED6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E72CC3-B57D-422A-A734-5547B75DED6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E72CC3-B57D-422A-A734-5547B75DED6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC73DAF-71F2-4329-9997-08706A5BD993}
+	EndGlobalSection
+EndGlobal
